@@ -10,7 +10,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 #pragma once
 #define DUCKDB_AMALGAMATION 1
-#define DUCKDB_SOURCE_ID "662041e2b"
+#define DUCKDB_SOURCE_ID "v0.3.4"
 #define DUCKDB_VERSION "v0.3.4"
 //===----------------------------------------------------------------------===//
 //                         DuckDB
